@@ -7,7 +7,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 ## Problems Solved
 | Day | Problem                                               | Solution                                   |
 |------|----------------------------------------------------- |--------------------------------------------|
-| 1    | [Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01) | []() |
+| 1    | [Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01) | [Day1_MaximumScoreAfterSplittingString.cpp](./Day1_MaxScoreAfterSplittingAString.cpp) |
 | 2    | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02) | []()| 
 | 3    | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2025-02-03) | []()| 
 | 4    | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04) | []()| 
