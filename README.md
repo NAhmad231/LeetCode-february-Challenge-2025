@@ -5,11 +5,18 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 ---
 
 ## Problems Solved
-| Day | Problem                                              | Solution                                   |
-|-----|----------------------------------------------------- |--------------------------------------------|
-| 1   | []() | []() |
-| 2   | []() | []()| 
-| 2   | []() | []()| 
+| Day | Problem                                               | Solution                                   |
+|------|----------------------------------------------------- |--------------------------------------------|
+| 1    | [Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01) | []() |
+| 2    | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02) | []()| 
+| 3    | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2025-02-03) | []()| 
+| 4    | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04) | []()| 
+| 5    | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05) | []()| 
+| 6    | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06) | []()| 
+| 7    | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07) | []()| 
+| 8    | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08) | []()| 
+| 9    | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09) | []()| 
+| 10   | []() | []()| 
 
 ---
 
