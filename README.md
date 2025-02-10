@@ -16,7 +16,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 7    | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07) | [Day7_FindtheNumberofDistinctColorsAmongtheBalls.cpp](./Day7_FindtheNumberofDistinctColorsAmongtheBalls.cpp)|
 | 8    | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08) | [Day8_DesignaNumberContainerSystem.cpp](./Day8_DesignaNumberContainerSystem.cpp)| 
 | 9    | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09) | [Day9_CountNumberofBadPairs.cpp](./Day9_CountNumberofBadPairs.cpp)| 
-| 10   | []() | []()| 
+| 10   | [Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10) | [Day10_ClearDigits.cpp](/Day10_ClearDigits.cpp)| 
 | 11   | []() | []()| 
 | 12   | []() | []()| 
 | 13   | []() | []()| 
