@@ -5,8 +5,8 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 ---
 
 ## Problems Solved
-| Day | Problem                                               | Solution                                   |
-|------|----------------------------------------------------- |--------------------------------------------|
+| Day | Problem                                                                | Solution                                   |
+|------|-----------------------------------------------------                  |--------------------------------------------|
 | 1    | [Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01) | [Day1_SpecialArrayI.cpp](./Day1_SpecialArrayI.cpp) |
 | 2    | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02) | [Day2_CheckifArrayIsSortedandRotated.cpp](./Day2_CheckifArrayIsSortedandRotated.cpp)| 
 | 3    | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2025-02-03) | [Day3_LongestStrictlyIncreasingorStrictlyDecreasingSubarray.cpp](./Day3_LongestStrictlyIncreasingorStrictlyDecreasingSubarray.cpp)| 
