@@ -17,7 +17,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 8    | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08) | [Day8_DesignaNumberContainerSystem.cpp](./Day8_DesignaNumberContainerSystem.cpp)| 
 | 9    | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09) | [Day9_CountNumberofBadPairs.cpp](./Day9_CountNumberofBadPairs.cpp)| 
 | 10   | [Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10) | [Day10_ClearDigits.cpp](/Day10_ClearDigits.cpp)| 
-| 11   | []() | []()| 
+| 11   | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/?envType=daily-question&envId=2025-02-11) | [Day11_RemoveAllOccurrencesofaSubstring.cpp](./Day11_RemoveAllOccurrencesofaSubstring.cpp)| 
 | 12   | []() | []()| 
 | 13   | []() | []()| 
 | 14   | []() | []()| 
