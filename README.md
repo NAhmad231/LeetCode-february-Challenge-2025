@@ -20,7 +20,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 11   | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/?envType=daily-question&envId=2025-02-11) | [Day11_RemoveAllOccurrencesofaSubstring.cpp](./Day11_RemoveAllOccurrencesofaSubstring.cpp)| 
 | 12   | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/?envType=daily-question&envId=2025-02-12) | [Day12_MaxSumofaPairWithEqualSumofDigits.cpp](./Day12_MaxSumofaPairWithEqualSumofDigits.cpp)| 
 | 13   | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/?envType=daily-question&envId=2025-02-11) | [Day13_MInimumOperationsToExceedThresholdValuesII.cpp](./Day13_MInimumOperationsToExceedThresholdValuesII.cpp)| 
-| 14   | []() | []()| 
+| 14   | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14) | [Day14_ProductoftheLastKNumbers.cpp](./Day14_ProductoftheLastKNumbers.cpp)| 
 | 15   | []() | []()| 
 | 16   | []() | []()| 
 
