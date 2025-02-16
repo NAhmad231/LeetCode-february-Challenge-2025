@@ -23,6 +23,7 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 14   | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14) | [Day14_ProductoftheLastKNumbers.cpp](./Day14_ProductoftheLastKNumbers.cpp)| 
 | 15   | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/?envType=daily-question&envId=2025-02-15) | [Day15_FindthePunishmentNumberofanInteger.cpp](./Day15_FindthePunishmentNumberofanInteger.cpp)| 
 | 16   | []() | []()| 
+| 16   | []() | []()| 
 
 ---
 
