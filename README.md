@@ -24,17 +24,17 @@ This repository contains my solutions to the **LeetCode January Challenge 2025**
 | 15   | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/?envType=daily-question&envId=2025-02-15) | [Day15_FindthePunishmentNumberofanInteger.cpp](./Day15_FindthePunishmentNumberofanInteger.cpp)| 
 | 16   | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/?envType=daily-question&envId=2025-02-16) | [Day16_ConstructtheLexicographicallyLargestValidSequence](./Day16_ConstructtheLexicographicallyLargestValidSequence)| 
 | 17   | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/?envType=daily-question&envId=2025-02-17) | [Day17_LetterTilePossibilities](,/Day17_LetterTilePossibilities)| 
-| 18   | []() | []()| 
-| 19   | []() | []()| 
-| 20   | []() | []()| 
+| 18   | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/?envType=daily-question&envId=2025-02-18) | []()| 
+| 19   | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/?envType=daily-question&envId=2025-02-19) | []()| 
+| 20   | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2025-02-20) | []()| 
 | 21   | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2025-02-21) | [Day21_FindElementsinaContaminatedBinaryTree.cpp](./Day21_FindElementsinaContaminatedBinaryTree.cpp)| 
-| 22   | []() | []()| 
-| 23   | []() | []()| 
-| 24   | []() | []()| 
-| 25   | []() | []()| 
-| 26   | []() | []()| 
-| 27   | []() | []()| 
-| 28   | []() | []()| 
+| 22   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=daily-question&envId=2025-02-22) | []()| 
+| 23   | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23) | []()| 
+| 24   | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/?envType=daily-question&envId=2025-02-24) | []()| 
+| 25   | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/?envType=daily-question&envId=2025-02-25) | []()| 
+| 26   | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26) | []()| 
+| 27   | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27) | []()| 
+| 28   | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28) | []()| 
 
 ---
 
