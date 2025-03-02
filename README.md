@@ -1,6 +1,6 @@
 # LeetCode-february-Challenge-2025
 
-This repository contains my solutions to the **LeetCode January Challenge 2025**. The goal is to solve one problem every day to improve problem-solving skills and enhance my understanding of data structures and algorithms.
+This repository contains my solutions to the **LeetCode Fanuary Challenge 2025**. The goal is to solve one problem every day to improve problem-solving skills and enhance my understanding of data structures and algorithms.
 
 ---
 
